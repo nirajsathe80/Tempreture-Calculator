@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ABB2B9;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* align-content: center; */
+    /* align-self: center; */
+    box-sizing: border-box;
+}
+
+#container {
+    position: absolute;
+    top: 160px;
+}
+
+.text {
+    color:#191d1c;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.input {
+    height: 40px;
+    width: 320px;
+    font-size: 40px;
+    text-align: center;
+}
